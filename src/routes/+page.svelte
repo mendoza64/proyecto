@@ -8,7 +8,6 @@
 	<div class="content">
 		<nav>
 			<ul class="menu">
-					<h1>holas</h1>
 					<li><a href="/">Inicio</a></li>
 					<li><a href="/">Contacto</a></li>
 
