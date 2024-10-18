@@ -4,28 +4,31 @@
 <script>
 	import fondo from '$lib/images/fondo.jpg';
 </script>
-
 <div class="background" style="background-image: url({fondo});">
 	<div class="content">
-		<header>
-			<nav>
-				<ul class="menu">
+		<nav>
+			<ul class="menu">
+					<h1>hola</h1>
 					<li><a href="/">Inicio</a></li>
 					<li><a href="/">Contacto</a></li>
 
 					<li class="dropdown">
 						<a href="/" class="dropbtn">Actividades</a>
 						<div class="dropdown-content">
-							<a href="/">Deportivas</a>
-							<a href="/">Escolares</a>
+							<a href="deportivas">Deportivas</a>
+							<a href="escolares">Escolares</a>
 						</div>
 					</li>
 					<li><a href="/">Novedades</a></li>
 				</ul>
 			</nav>
-		</header>
 		<h1>¡Bienvenidos al Calendario Escolar de la institución educativa LOLA GONZÁLEZ</h1>
-		<p>brrrr.</p>
+		<br>
+		<br>
+		<p>
+			Aquí podras enterarte de todos los eventos institucionales programados durante
+			 la semana y ver las novedades diarias dentro de nuestra institución
+		</p>
 	</div>
 </div>
 
