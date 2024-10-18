@@ -4,6 +4,9 @@
 <script>
 	import fondo from '$lib/images/fondo.jpg';
 </script>
+
+
+
 <div class="background" style="background-image: url({fondo});">
 	<div class="content">
 		<nav>
